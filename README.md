@@ -1,4 +1,4 @@
-# Eigen
+# Eigen :A computational Library
 Codes for numerical computation using Eigen in C++
 FOR LINUX USERS INSTALL EIGEN USING THE COMMAND
 
