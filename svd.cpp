@@ -17,6 +17,7 @@ which contains the relative importance of each factor).
 We would cleaerly expect that the values that appear most frequently in one topic would appear less frequently in the other.
 otherwise that word wouldn't make a good choice to seperate out the two topics. Therefore, we expect the topics to be orthogonal
 AAtranspose is the columnspace realtions
+Understand in terms of ellipse and circle
 */
 
 
